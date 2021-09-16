@@ -34,7 +34,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Ankit Verma**.
+* **Gautam Verma**.
 
 ## License
 
